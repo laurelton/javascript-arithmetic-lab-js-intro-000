@@ -21,4 +21,3 @@ var inc = function(n) {
 var dec = function(n) {
   return --n;
 }
-
